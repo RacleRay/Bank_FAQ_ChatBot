@@ -1,0 +1,1 @@
+nohup python app.py > running_log.log $

@@ -1,0 +1,15 @@
+pandas
+numpy
+scipy
+tensorflow-gpu==1.13.1
+flask
+annoy
+gensim
+kenlm
+datrie
+pypinyin
+bert-serving-server
+bert-serving-client
+pyltp
+redis
+pymongo
